@@ -1,0 +1,16 @@
+.fw-bolder{
+    transition: .7s color;
+}
+
+.fw-bolder:hover{
+    color: rgb(64, 64, 228);
+}
+
+.navbar{
+    font-size: x-large !important;
+}
+
+.navbar-brand{
+    padding-left: 1em !important;
+    font-size: xx-large !important;
+}
